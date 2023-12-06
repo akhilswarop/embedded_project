@@ -79,5 +79,9 @@ A Linear Support Vector Classifier (Linear SVC) is a supervised machine learning
 6. The hardware will auto reboot and start its predictions.
 
 
+## Youtube Link
+[Embedded Project](https://youtu.be/zyvXpDkvRKw?si=4BKqQhl7FPQjjoI4)
+
+
 
   
